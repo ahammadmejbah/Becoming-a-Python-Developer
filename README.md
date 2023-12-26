@@ -92,8 +92,6 @@ The primary objectives of **Learning Professional Python** are as follows:
 
 ## Table of Contents
 
-
-<details>
 <summary><b>Chapter 1: Introduction to Python</b></summary>
 
 1.1 [Overview of Python](#)
