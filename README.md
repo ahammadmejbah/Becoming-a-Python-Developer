@@ -133,18 +133,35 @@ The primary objectives of **Learning Professional Python** are as follows:
 3.1 [Introduction to OOP](#)
    - 3.1.1 [Principles of OOP](#)
    - 3.1.2 [Advantages of OOP in Python](#)
+   - 3.1.3 [Real-world Applications of OOP](#)
+   - 3.1.4 [Understanding OOP Terminology](#)
+   - 3.1.5 [Encapsulation and Abstraction](#)
+   - 3.1.6 [Overview of OOP Languages](#)
 
 3.2 [Classes and Objects](#)
    - 3.2.1 [Creating Classes](#)
-   - 3.2.2 [Instantiating Objects](#)
+   - 3.2.2 [Attributes and Methods](#)
+   - 3.2.3 [Class Constructors](#)
+   - 3.2.4 [Class Variables vs. Instance Variables](#)
+   - 3.2.5 [Access Modifiers](#)
+   - 3.2.6 [Class Docstrings and Comments](#)
 
 3.3 [Inheritance and Polymorphism](#)
    - 3.3.1 [Extending Classes through Inheritance](#)
-   - 3.3.2 [Polymorphism in Python](#)
+   - 3.3.2 [Method Overriding](#)
+   - 3.3.3 [Abstract Classes and Methods](#)
+   - 3.3.4 [Understanding Polymorphism](#)
+   - 3.3.5 [Operator Overloading in Python](#)
+   - 3.3.6 [Inheritance in Python vs. Other Languages](#)
 
 3.4 [Class Methods and Attributes](#)
    - 3.4.1 [Defining Class Methods](#)
    - 3.4.2 [Class Attributes and Instance Attributes](#)
+   - 3.4.3 [Property Decorators](#)
+   - 3.4.4 [Class Methods vs. Static Methods](#)
+   - 3.4.5 [Using Class Methods for Alternative Constructors](#)
+   - 3.4.6 [Managing Attributes with Setter Methods](#)
+
 
 <summary><b>Chapter 4: Advanced OOP Concepts</b></summary>
 
