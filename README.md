@@ -90,8 +90,8 @@ The primary objectives of **Learning Professional Python** are as follows:
 8. **Designing GUI Applications**
    - Step-by-step guide to designing graphical user interface applications using Python.
 
-## Conclusion
-Certainly! Below is an interactive table of contents for the book "Learning Professional Python" with 20 chapters, each containing at least 12 subsections. Feel free to click on each section to expand and explore the detailed structure.
+## Table of Contents
+
 
 <details>
 <summary><b>Chapter 1: Introduction to Python</b></summary>
