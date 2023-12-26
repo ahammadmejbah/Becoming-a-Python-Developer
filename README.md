@@ -109,9 +109,7 @@ The primary objectives of **Learning Professional Python** are as follows:
 1.4 [Python Code Organization](#)
    - 1.4.1 [Modules and Packages](#)
    - 1.4.2 [Best Practices in Code Structure](#)
-</details>
 
-<details>
 <summary><b>Chapter 2: Fundamental Programming Concepts</b></summary>
 
 2.1 [Understanding Variables and Memory](#)
@@ -129,9 +127,7 @@ The primary objectives of **Learning Professional Python** are as follows:
 2.4 [Error Handling and Exceptions](#)
    - 2.4.1 [Try-Except Blocks](#)
    - 2.4.2 [Common Exception Types](#)
-</details>
 
-<details>
 <summary><b>Chapter 3: Object-Oriented Programming in Python</b></summary>
 
 3.1 [Introduction to OOP](#)
@@ -149,9 +145,7 @@ The primary objectives of **Learning Professional Python** are as follows:
 3.4 [Class Methods and Attributes](#)
    - 3.4.1 [Defining Class Methods](#)
    - 3.4.2 [Class Attributes and Instance Attributes](#)
-</details>
 
-<details>
 <summary><b>Chapter 4: Advanced OOP Concepts</b></summary>
 
 4.1 [Multiple Inheritance](#)
@@ -169,9 +163,7 @@ The primary objectives of **Learning Professional Python** are as follows:
 4.4 [Design Patterns in Python](#)
    - 4.4.1 [Common Design Patterns](#)
    - 4.4.2 [Applying Design Patterns in Python](#)
-</details>
 
-<details>
 <summary><b>Chapter 5: Data Structures and Algorithms in Python</b></summary>
 
 5.1 [Lists and Tuples](#)
@@ -189,9 +181,7 @@ The primary objectives of **Learning Professional Python** are as follows:
 5.4 [Searching and Sorting Algorithms](#)
    - 5.4.1 [Linear and Binary Search](#)
    - 5.4.2 [Bubble Sort, Merge Sort, and Quick Sort](#)
-</details>
 
-<details>
 <summary><b>Chapter 6: Advanced Data Structures in Python</b></summary>
 
 6.1 [Linked Lists](#)
@@ -216,9 +206,7 @@ The primary objectives of **Learning Professional Python** are as follows:
    - 6.4.1 [Graph Representation](#)
      
    - 6.4.2 [Depth-First and Breadth-First Search](#)
-</details>
 
-<details>
 <summary><b>Chapter 7: File Handling and Input/Output Operations</b></summary>
 
 7.1 [Reading and Writing Files](#)
@@ -236,9 +224,7 @@ The primary objectives of **Learning Professional Python** are as follows:
    - 7.3.1 [Pickling and Unpickling](#)
      
    - 7.3.2 [Working with JSON](#)
-</details>
 
-<details>
 <summary><b>Chapter 8: Concurrency in Python</b></summary>
 
 8.1 [Introduction to Concurrency](#)
@@ -255,9 +241,7 @@ The primary objectives of **Learning Professional Python** are as follows:
    - 8.3.1 [Process Creation and Communication](#)
      
    - 8.3.2 [Shared Memory and Queues](#)
-</details>
 
-<details>
 <summary><b>Chapter 9: Database Integration with Python</b></summary>
 
 9.1 [Relational Databases and SQL](#)
@@ -274,21 +258,17 @@ The primary objectives of **Learning Professional Python** are as follows:
    - 9.3.1 [Object-Relational Mapping Concepts](#)
      
    - 9.3.2 [Using SQLAlchemy for Database Operations](#)
-</details>
 
-
-<details>
 <summary><b>Chapter 10: Web Development Basics with Python</b></summary>
 
-9.1 [Introduction to Web Development](#)
-   - 9.1.1 [Client-Server Architecture](#)
-   - 9.1.2 [Overview of Web Technologies](#)
+10.1 [Introduction to Web Development](#)
+   - 10.1.1 [Client-Server Architecture](#)
+   - 10.1.2 [Overview of Web Technologies](#)
 
-9.2 [Server-Side Scripting with Python](#)
-   - 9.2.1 [Common Gateway Interface (CGI)](#)
-   - 9.2.2 [Web Frameworks in Python](#)
+10.2 [Server-Side Scripting with Python](#)
+   - 10.2.1 [Common Gateway Interface (CGI)](#)
+   - 10.2.2 [Web Frameworks in Python](#)
 
-9.3 [Building a Simple Web Application](#)
-   - 9.3.1 [Creating Routes and Handling Requests](#)
-   - 9.3.2 [HTML Templating with Python](#)
-</details>
+10.3 [Building a Simple Web Application](#)
+   - 10.3.1 [Creating Routes and Handling Requests](#)
+   - 10.3.2 [HTML Templating with Python](#)
