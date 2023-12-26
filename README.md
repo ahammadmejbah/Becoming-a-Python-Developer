@@ -193,6 +193,105 @@ The primary objectives of **Learning Professional Python** are as follows:
    - 5.4.2 [Bubble Sort, Merge Sort, and Quick Sort](#)
 </details>
 
-<!-- Repeat the above structure for the remaining chapters -->
+<details>
+<summary><b>Chapter 6: Advanced Data Structures in Python</b></summary>
 
-*Note: The links in the table of contents are placeholders and should be replaced with actual content links in the finalized document.*
+6.1 [Linked Lists](#)
+
+   - 6.1.1 [Singly Linked Lists](#)
+     
+   - 6.1.2 [Doubly Linked Lists](#)
+
+6.2 [Stacks and Queues](#)
+
+   - 6.2.1 [Implementation of Stacks](#)
+     
+   - 6.2.2 [Implementation of Queues](#)
+
+6.3 [Trees in Python](#)
+   - 6.3.1 [Binary Trees](#)
+     
+   - 6.3.2 [Balanced Trees](#)
+
+6.4 [Graphs and Graph Algorithms](#)
+
+   - 6.4.1 [Graph Representation](#)
+     
+   - 6.4.2 [Depth-First and Breadth-First Search](#)
+</details>
+
+<details>
+<summary><b>Chapter 7: File Handling and Input/Output Operations</b></summary>
+
+7.1 [Reading and Writing Files](#)
+
+   - 7.1.1 [Text File Operations](#)
+     
+   - 7.1.2 [Binary File Operations](#)
+
+7.2 [CSV and JSON Data Handling](#)
+   - 7.2.1 [Working with CSV Files](#)
+     
+   - 7.2.2 [JSON Data Manipulation](#)
+
+7.3 [Serialization and Deserialization](#)
+   - 7.3.1 [Pickling and Unpickling](#)
+     
+   - 7.3.2 [Working with JSON](#)
+</details>
+
+<details>
+<summary><b>Chapter 8: Concurrency in Python</b></summary>
+
+8.1 [Introduction to Concurrency](#)
+   - 8.1.1 [Understanding Concurrent Programming](#)
+     
+   - 8.1.2 [Concurrency vs. Parallelism](#)
+
+8.2 [Threading in Python](#)
+   - 8.2.1 [Thread Creation and Management](#)
+     
+   - 8.2.2 [Thread Safety and Locks](#)
+
+8.3 [Multiprocessing in Python](#)
+   - 8.3.1 [Process Creation and Communication](#)
+     
+   - 8.3.2 [Shared Memory and Queues](#)
+</details>
+
+<details>
+<summary><b>Chapter 9: Database Integration with Python</b></summary>
+
+9.1 [Relational Databases and SQL](#)
+   - 9.1.1 [Database Design Principles](#)
+     
+   - 9.1.2 [SQL Queries in Python](#)
+
+9.2 [Working with SQLite in Python](#)
+   - 9.2.1 [CRUD Operations with SQLite](#)
+     
+   - 9.2.2 [Transactions and Error Handling](#)
+
+9.3 [ORM and SQLAlchemy](#)
+   - 9.3.1 [Object-Relational Mapping Concepts](#)
+     
+   - 9.3.2 [Using SQLAlchemy for Database Operations](#)
+</details>
+
+<details>
+<summary><b>Chapter 10: Web Development Basics with Python</b></summary>
+
+10.1 [Introduction to Web Development](#)
+
+    - 10.1.1 [Client-Server Architecture](#)
+    - 10.1.2 [Overview of Web Technologies](#)
+10.2 [Server-Side Scripting with Python](#)
+
+    - 10.2.1 [Common Gateway Interface (CGI)](#)
+    - 10.2.2 [Web Frameworks in Python](#)
+10.3 [Building a Simple Web Application](#)
+
+    - 10.3.1 [Creating Routes and Handling Requests](#)
+    - 10.3.2 [HTML Templating with Python](#)
+</details>
+
