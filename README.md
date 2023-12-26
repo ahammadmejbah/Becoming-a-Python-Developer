@@ -278,20 +278,19 @@ The primary objectives of **Learning Professional Python** are as follows:
    - 9.3.2 [Using SQLAlchemy for Database Operations](#)
 </details>
 
+
 <details>
 <summary><b>Chapter 10: Web Development Basics with Python</b></summary>
 
-10.1 [Introduction to Web Development](#)
+9.1 [Introduction to Web Development](#)
+   - 9.1.1 [Client-Server Architecture](#)
+   - 9.1.2 [Overview of Web Technologies](#)
 
-    - 10.1.1 [Client-Server Architecture](#)
-    - 10.1.2 [Overview of Web Technologies](#)
-10.2 [Server-Side Scripting with Python](#)
+9.2 [Server-Side Scripting with Python](#)
+   - 9.2.1 [Common Gateway Interface (CGI)](#)
+   - 9.2.2 [Web Frameworks in Python](#)
 
-    - 10.2.1 [Common Gateway Interface (CGI)](#)
-    - 10.2.2 [Web Frameworks in Python](#)
-10.3 [Building a Simple Web Application](#)
-
-    - 10.3.1 [Creating Routes and Handling Requests](#)
-    - 10.3.2 [HTML Templating with Python](#)
+9.3 [Building a Simple Web Application](#)
+   - 9.3.1 [Creating Routes and Handling Requests](#)
+   - 9.3.2 [HTML Templating with Python](#)
 </details>
-
